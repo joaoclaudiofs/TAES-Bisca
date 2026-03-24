@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.bisca",
+  "appName": "bisca",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true,
+    "allowNavigation": [
+      "*"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
